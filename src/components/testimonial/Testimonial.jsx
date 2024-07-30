@@ -33,7 +33,7 @@ const Testimonial = () => {
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  Angelin Rosy
+                  Mrs.M.Angelin Rosy
                 </h2>
                 <p className="text-gray-500">M.C.A HOD</p>
               </div>
@@ -55,9 +55,9 @@ const Testimonial = () => {
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  Karthikeyan S
+                  Mr.S.JANAKI RAMAN
                 </h2>
-                <p className="text-gray-500">PROJECT MANAGER</p>
+                <p className="text-gray-500"> M.C.A Professor </p>
               </div>
             </div>
 
@@ -77,9 +77,9 @@ const Testimonial = () => {
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  Vaikundhavasan D
+                  Mr.S. Karthikeyan
                 </h2>
-                <p className="text-gray-500">DEVELOPER</p>
+                <p className="text-gray-500">M.C.A Professor</p>
               </div>
             </div>
           </div>
